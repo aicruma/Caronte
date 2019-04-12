@@ -1,4 +1,4 @@
-def compare(x, y):
+def comparar(x, y):
     n = 0
     if x > y:
         n = 1
@@ -13,5 +13,5 @@ x = input("Ingrese un valor para x:\n")
 y = input("Ingrese un valor para y:\n")
 
 print("El resultado es:")
-compare(x, y)
+comparar(x, y)
 print("se supone que sale n")
